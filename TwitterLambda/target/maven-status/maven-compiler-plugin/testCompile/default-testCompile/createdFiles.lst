@@ -1,0 +1,14 @@
+com\hex\challenger\twitterlambda\TestContext$1.class
+com\hex\challenger\twitterlambda\TestUtils$DynamodbEventMixin$AttributeValueMixIn.class
+com\hex\challenger\twitterlambda\TestContext.class
+com\hex\challenger\twitterlambda\TestUtils$DateTimeSerializer.class
+com\hex\challenger\twitterlambda\TestUtils$DynamodbEventMixin$RecordMixin.class
+com\hex\challenger\twitterlambda\TestUtils$DynamodbEventMixin.class
+com\hex\challenger\twitterlambda\LambdaFunctionHandlerTest.class
+com\hex\challenger\twitterlambda\TestUtils.class
+com\hex\challenger\twitterlambda\TestUtils$DynamodbEventMixin$StreamRecordMixin.class
+com\hex\challenger\twitterlambda\TestUtils$UpperCaseRecordsPropertyNamingStrategy.class
+com\hex\challenger\twitterlambda\TestUtils$TestJacksonMapperModule.class
+com\hex\challenger\twitterlambda\TestUtils$DateTimeDeserializer.class
+com\hex\challenger\twitterlambda\TestUtils$1.class
+com\hex\challenger\twitterlambda\TestContext$TestLogger.class

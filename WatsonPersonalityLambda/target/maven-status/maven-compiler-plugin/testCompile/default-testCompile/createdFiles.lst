@@ -1,0 +1,14 @@
+com\hex\challenger\watson\TestUtils$DynamodbEventMixin.class
+com\hex\challenger\watson\TestUtils$DynamodbEventMixin$StreamRecordMixin.class
+com\hex\challenger\watson\TestUtils$1.class
+com\hex\challenger\watson\TestUtils$UpperCaseRecordsPropertyNamingStrategy.class
+com\hex\challenger\watson\TestUtils$TestJacksonMapperModule.class
+com\hex\challenger\watson\TestUtils$DynamodbEventMixin$AttributeValueMixIn.class
+com\hex\challenger\watson\TestContext.class
+com\hex\challenger\watson\TestUtils$DateTimeSerializer.class
+com\hex\challenger\watson\TestUtils$DateTimeDeserializer.class
+com\hex\challenger\watson\TestContext$TestLogger.class
+com\hex\challenger\watson\TestUtils$DynamodbEventMixin$RecordMixin.class
+com\hex\challenger\watson\TestContext$1.class
+com\hex\challenger\watson\TestUtils.class
+com\hex\challenger\watson\LambdaFunctionHandlerTest.class
